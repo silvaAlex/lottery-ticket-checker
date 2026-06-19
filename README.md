@@ -38,9 +38,14 @@ npm run preview
 
 Cada linha deve conter um jogo:
 
-```
+```csv
 QUINA,10,25,33,45,78
 MEGASENA,5,12,23,34,45,56
+```
+
+ou
+
+```csv
 10,25,33,45,78
 5,12,23,34,45,56
 ```
